@@ -45,7 +45,7 @@ This repo contains multiple Jupyter notebooks, each focusing on a different aspe
 - Handling missing values  
 
 ### 📌 **NumPy**
-- Arrays, indexing, slicing  
+- Arrays, indexing, slicing.
 - Broadcasting  
 - Mathematical operations  
 
